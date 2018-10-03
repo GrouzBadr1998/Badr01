@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>  <head>
+<title>Wie ben ik </title>
+</head>
+<body>
+
+<h1 style="background-color:DodgerBlue;">Wie ben ik</h1>
+<p>Mijn naam is Badr Grouz</p>
+<p>Ik ben 20 jaar oud</p>
+<p>Ik woon in Auderghem</p>
+<hr/>
+<h1 style="background-color:DodgerBlue;">Professionele ervaringen</h1>
+<p> 2018 Werken bij Swissport (luchthaven)</p>
+<p> 2017 Voetbal coach bij BX Brussels</p>
+<p> 2015-2016 Bij panos gewerkt (luchthaven)</p>
+<hr/>
+<h1 style="background-color:DodgerBlue;">Opleidingen</h1>
+<p> 2017-2018 KTA Campus De Brug, auto-mechanica</p>
+<p> 2016-2015 KTA Campus De Brug, auto-mechanica</p>
+<p> 2015-2014 KTA Campus De Brug, auto-mechanica</p>
+<p> 2014-2013 Instituut Anneessens-Funck, elektriciteit/mechanica</p>
+<hr/>
+<h1 style="background-color:DodgerBlue;">Taalkennis</h1>
+<p>Frans: moedertaal, zeer goede mondelinge taalvaardigheid</p>
+<p>Nederlands: zeer goede mondelinge en schriftelijke taalvaardigheid</p>
+<p>Engels: zeer goede mondelinge taalvaardigheid</p>
+<hr/>
+<h1 style="background-color:DodgerBlue;">Computer kennis</h1>
+<p> Excel, Word, Photoshop CC, PowerPoint en Camtasia</p>
+<hr/>
+<h1 style="background-color:DodgerBlue;">Mijn hobby's</h1>
+<p> Ik ben iemand die veel aan sport doet zoals voetballen,lopen,zwemmen...</p>
+<p> Voetbal is altijd mijn lievelings sport geweest, ik ben begonnen voetballen toen ik 5 jaar was in Aalst en tot nu toe speel ik het nog.</p>
+<p> Ik ga ook graag naar de bioscoop films kijken met vrienden omdat we samen leuke momenten hebben en zwemmen doe ik ook af en toe.</p>
+<hr/>
+<h1 style="background-color:DodgerBlue;">Wat wil ik later worden?</h1>
+<p>Ik wil later graag een computer scientist worden omdat ik gepassioneerd bent in technologie sinds ik heel klein was.</p>
+<p>Ik wil ook graag blijven voetballen want dat is mijn passie.</p>
+
+
+
+</body>
+</html>
